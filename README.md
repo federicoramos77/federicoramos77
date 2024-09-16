@@ -1,11 +1,5 @@
-# Federico German Ramos - iOS & macOS App Developer
-
-Hey there! I'm **Federico**, an app developer based in Berlin. I love building cool stuff for **iOS** and **macOS** using **Swift** and **SwiftUI**.
-
-## About Me
-
-I'm all about creating apps for the Apple ecosystem, making sure they not only work great but also look fantastic. I work with **Swift** and **SwiftUI**. 
-Based in Berlin.
+Hey there! I'm **Federico**, an app developer based in Berlin. 
+I love building cool stuff for **iOS** and **macOS** using **Swift** and **SwiftUI**.
 
 ### What I've Been Working On Lately
 I've recently worked on these projects:
