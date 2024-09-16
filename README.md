@@ -1,11 +1,12 @@
-Hey there! I'm **Federico**, an app developer based in Berlin. 
+Hey there! 
+I'm **Federico**, an app developer based in Berlin. 
 I love building cool stuff for **iOS** and **macOS** using **Swift** and **SwiftUI**.
 
-### What I've Been Working On Lately
+## Recent Projects
 I've recently worked on these projects:
 
 - **[Blobi](https://blobi.net)** (iOS, iPadOS & macOS)   
-   *Coming soon. This Document based app aims to help Educator on managin their curriculum.
+   *Coming soon. This Document based app aims to help Educator on managing their curriculum.
 
 - **[MIX Experiences](https://apps.apple.com/de/app/mix-experiences/id6448399480?l=en-GB)** (iOS) 
   MIX uses ARView to display Art in different locations around the world.
@@ -53,5 +54,5 @@ If you want to chat about apps, ideas, or anything tech-related, hit me up! You 
 - Or just send me an email at [contact@federicoramos.com.ar](mailto:contact@federicoramos.com.ar)
 
 ---
-
+👨🏻‍💻🧉🎵
 © Federico German Ramos, 2024
