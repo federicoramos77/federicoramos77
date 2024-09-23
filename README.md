@@ -29,9 +29,6 @@ Here are a few of my apps available on the App Store:
 #### iPad and iPhone Apps:
 - [Avanti: AI Art & Community](https://apps.apple.com/de/app/avanti-ai-art-community/id6471005713)  
   Run Generative AI models, discover and share your Art.
-  
-- [BuddyBear Finder](https://apps.apple.com/de/app/buddybear-finder/id6466288111)  
-  An app to help you explore Berlin's famous Buddy Bears.
 
 - [World Map: Visited Countries](https://apps.apple.com/de/app/world-map-visited-countries/id1551551412)  
   Keep track of your travels and visited countries.
