@@ -5,14 +5,14 @@ I love building cool stuff for the Apple ecosystem using **Swift** and **SwiftUI
 ## Recent Projects
 I've recently worked on these projects:
 
-- **[Blobi](https://blobi.net)** (iOS, iPadOS & macOS)   
-   This Document based app aims to help Educator on managing their curriculum. Coming soon. 
+- **[Blobi](https://blobi.net)** (iOS, iPadOS & macOS)  
+This Document based app aims to help Educator on managing their curriculum. Coming soon. 
 
-- **[MIX Experiences](https://apps.apple.com/de/app/mix-experiences/id6448399480?l=en-GB)** (iOS) 
-  MIX uses ARView to display Art in different locations around the world.
+- **[MIX Experiences](https://apps.apple.com/de/app/mix-experiences/id6448399480?l=en-GB)** (iOS)  
+MIX uses ARView to display Art in different locations around the world.
 
-- **[Sona AI](https://apps.apple.com/de/app/sona-ai-portrait-generator/id6449460752?l=en-GB)** (iOS) 
-  Avatars app, based on stable diffusion.
+- **[Sona AI](https://apps.apple.com/de/app/sona-ai-portrait-generator/id6449460752?l=en-GB)** (iOS)  
+Avatars app, based on stable diffusion.
 
 
 
