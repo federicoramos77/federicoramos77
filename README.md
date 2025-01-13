@@ -6,7 +6,7 @@ I love building cool stuff for the Apple ecosystem using **Swift** and **SwiftUI
 I've recently worked on these projects:
 
 - **[Blobi](https://blobi.net)** (iOS, iPadOS & macOS)  
-This Document based app aims to help Educator on managing their curriculum. Coming soon. 
+This Document based app aims to help Educator on managing their curriculum.
 
 - **[MIX Experiences](https://apps.apple.com/de/app/mix-experiences/id6448399480?l=en-GB)** (iOS)  
 MIX uses ARView to display Art in different locations around the world.
