@@ -26,6 +26,9 @@ Here are a few of my apps available on the App Store:
 - [Lo-Fi Bar](https://apps.apple.com/de/app/lo-fi-bar/id6473050829?mt=12)  
   A menu bar app with hand-picked Lo-Fi YouTube stations.
 
+- [CodeMate: AI Assistant](https://apps.apple.com/de/app/codemate-ai-assistant/id6670562748?l=en-GB&mt=12)
+  A dev-tool that helps to speed the development process by making the code automatically available to the AI Model as context. Runs on powerful open-source models like the Qwen2.5 Coder family. The models run locally. No API call.
+
 #### iPad and iPhone Apps:
 - [Avanti: AI Art & Community](https://apps.apple.com/de/app/avanti-ai-art-community/id6471005713)  
   Run Generative AI models, discover and share your Art.
