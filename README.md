@@ -5,6 +5,9 @@ I love building cool stuff for the Apple ecosystem using **Swift** and **SwiftUI
 ## Recent Projects
 I've recently worked on these projects:
 
+- **[UmmLike](https://apps.apple.com/de/app/ummlike/id6741377775?l=en-GB&mt=12)** (macOS)  
+Improve your public speaking with a real-time AI speech coach.
+
 - **[Blobi](https://blobi.net)** (iOS, iPadOS & macOS)  
 This Document based app aims to help Educator on managing their curriculum.
 
