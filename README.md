@@ -23,8 +23,6 @@ Avatars app, based on stable diffusion.
 Here are a few of my apps available on the App Store:
 
 #### Mac Apps:
-- [CodeMate: AI Assistant](https://apps.apple.com/de/app/codemate-ai-assistant/id6670562748?l=en-GB&mt=12)  
-  A dev-tool that helps to speed the development process by making the code automatically available to the AI Model as context. Runs on powerful open-source models like the Qwen2.5 Coder family. The models run locally. No API calls.
 
 - [Typed Adventures](https://apps.apple.com/de/app/typed-adventures/id6478809036)  
   A fun little adventure game I worked on.
