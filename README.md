@@ -5,6 +5,9 @@ I love building cool stuff for the Apple ecosystem using **Swift** and **SwiftUI
 ## Recent Projects
 I've recently worked on these projects:
 
+- **[Ai3X](https://ai3xapp.com)** (iOS)  
+  Pilot training—**by pilots, for pilots**. Ai3X helps Airbus A320/A321 pilots learn smarter with spaced repetition and active recall.
+
 - **[UmmLike](https://apps.apple.com/de/app/ummlike/id6741377775?l=en-GB&mt=12)** (macOS)  
 Improve your public speaking with a real-time AI speech coach.
 
