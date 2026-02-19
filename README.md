@@ -8,6 +8,9 @@ I've recently worked on these projects:
 - **[Ai3X](https://ai3xapp.com)** (iOS)  
 Ai3X helps Airbus A320/A321 pilots learn smarter with spaced repetition and active recall.
 
+- **[animAR](https://www.animar.tech)** (iOS)  
+Bring any photo, painting, or poster to life as an AI personality that sees your world and responds in AR.
+
 - **[UmmLike](https://apps.apple.com/de/app/ummlike/id6741377775?l=en-GB&mt=12)** (macOS)  
 Improve your public speaking with a real-time AI speech coach.
 
